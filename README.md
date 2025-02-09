@@ -138,6 +138,11 @@ make bonus  # Compile with bonus features
 - Collision detection
 - Animation handling
 
+
+[Download the demo video](./game_show.mp4)
+
+
+
 ## 📜 License
 
 This project is part of the 42 curriculum and is provided as-is.
