@@ -138,8 +138,10 @@ make bonus  # Compile with bonus features
 - Collision detection
 - Animation handling
 
+#
 
-[Download the demo video](./game_show.mp4)
+![game_show-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/30ee3b00-f7cb-4eda-b268-4f49dc32412f)
+#
 
 
 
